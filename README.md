@@ -1,4 +1,4 @@
-# Chest X-ray Image Enhancement Techniques
+# Low Light Image preprocesing techniques for X-Rays.
 
 ![Medical Imaging](https://img.shields.io/badge/domain-Medical_Imaging-blue) ![Python](https://img.shields.io/badge/language-Python-green) ![OpenCV](https://img.shields.io/badge/library-OpenCV-red)
 
